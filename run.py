@@ -1,5 +1,6 @@
-import os 
+import os
 from taskmanager import app
+
 
 if __name__ == "__main__":
     app.run(
